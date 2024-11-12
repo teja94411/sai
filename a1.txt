@@ -1,0 +1,2 @@
+Git is mandatory for devops
+
